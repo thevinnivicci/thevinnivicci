@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://vinitkumar.netlify.app/](https://vinitkumar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vinit-ochi.vercel.app/](https://vinit-ochi.vercel.app/)
 
 - 📫 How to reach me **kumarvinit1122001@gmail.com**
 
